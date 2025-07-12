@@ -27,7 +27,7 @@
 
 | Photo | Name | Email | Contact |
 |-------|------|-------|---------|
-| <img src="team/member2.jpg" width="100"/> | **Divya Lipte** | liptedivya@gmail.com | +91-8080632014 |
+| <img src="team/janhavi.jpeg" width="100"/> | **Divya Lipte** | liptedivya@gmail.com | +91-8080632014 |
 | <img src="team/janhavi1.jpeg" width="100"/> | **Janhavi Kongari** | kongarijanhavi@gmail.com | +91-9322520619 |
 | <img src="team/member3.jpg" width="100"/> | **Paras Joshi** | joshiparas217@gmail.com | +91-8767841672 |
 | <img src="team/member4.jpg" width="100"/> | **Samruddhi Kadam** | samruddhik754@gmail.com | +91-9850740033 |
