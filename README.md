@@ -6,16 +6,16 @@
 
 ## 📌 Project Overview
 
-**Project Title**: _[To be decided]_  
-**Domain**: _[AI/ML, Web Development, IoT, Cybersecurity, etc.]_
+**Project Title**: SMARTEXIT: AI POWERED FRICTIONLESS CHECKOUT SYSTEM  
+**Domain**: App Development, Machine learning
 
 
 ## 🛠️ Technologies Used
 
-- Frontend: _[To be decided]_
-- Backend: _[To be decided]_
-- Database: _[To be decided]_
-- Tools: Git, GitHub, VS Code, [Others...]
+- Frontend: Flutter
+- Backend: FireBase
+- Database: FireStore
+- Tools: Git, GitHub, VS Code, Android Studio
 
 ## 🚧 Project Status
 
