@@ -27,10 +27,11 @@
 
 | Photo | Name | Email | Contact |
 |-------|------|-------|---------|
-| <img src="team/divya.jpeg" width="100"/> | **Divya Lipte** | liptedivya@gmail.com | +91-8080632014 |
 | <img src="team/janhavi1.jpeg" width="100"/> | **Janhavi Kongari** | kongarijanhavi@gmail.com | +91-9322520619 |
-| <img src="team/paras.jfif" width="100"/> | **Paras Joshi** | joshiparas217@gmail.com | +91-8767841672 |
 | <img src="team/WhatsApp Image 2026-04-15 at 11.23.51 AM.jpeg" width="100"/> | **Samruddhi Kadam** | samruddhik754@gmail.com | +91-9850740033 |
+| <img src="team/divya.jpeg" width="100"/> | **Divya Lipte** | liptedivya@gmail.com | +91-8080632014 |
+| <img src="team/paras.jfif" width="100"/> | **Paras Joshi** | joshiparas217@gmail.com | +91-8767841672 |
+
 
 > 🖼️ Please place team photos in the `/team/` folder and ensure they're named correctly (e.g., `janhavi.jpg`).
 
