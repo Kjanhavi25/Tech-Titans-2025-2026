@@ -1,0 +1,51 @@
+﻿Resolving dependencies...
+Downloading packages...
+  _fe_analyzer_shared 93.0.0 (97.0.0 available)
+  _flutterfire_internals 1.3.59 (1.3.67 available)
+  analyzer 10.0.1 (11.0.0 available)
+  build_config 1.2.0 (1.3.0 available)
+  build_runner 2.11.1 (2.12.1 available)
+  characters 1.4.0 (1.4.1 available)
+  cloud_firestore 5.6.12 (6.1.3 available)
+  cloud_firestore_platform_interface 6.6.12 (7.0.7 available)
+  cloud_firestore_web 4.4.12 (5.1.3 available)
+  connectivity_plus 6.1.5 (7.0.0 available)
+  firebase_analytics 11.6.0 (12.1.3 available)
+  firebase_analytics_platform_interface 4.4.3 (5.0.7 available)
+  firebase_analytics_web 0.5.10+16 (0.6.1+3 available)
+  firebase_auth 5.7.0 (6.2.0 available)
+  firebase_auth_platform_interface 7.7.3 (8.1.7 available)
+  firebase_auth_web 5.15.3 (6.1.3 available)
+  firebase_core 3.15.2 (4.5.0 available)
+  firebase_core_web 2.24.1 (3.5.0 available)
+  firebase_storage 12.4.10 (13.1.0 available)
+  firebase_storage_platform_interface 5.2.10 (5.2.18 available)
+  firebase_storage_web 3.10.17 (3.11.3 available)
+  flutter_lints 5.0.0 (6.0.0 available)
+  intl 0.19.0 (0.20.2 available)
+  lints 5.1.1 (6.1.0 available)
+  matcher 0.12.17 (0.12.19 available)
+  material_color_utilities 0.11.1 (0.13.0 available)
+  meta 1.17.0 (1.18.1 available)
+  mobile_scanner 5.2.3 (7.2.0 available)
+  test_api 0.7.7 (0.7.10 available)
+Got dependencies!
+29 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Launching integration_test/owner_portal_test.dart on Chrome in debug mode...
+Waiting for connection from debug service on Chrome...             33.5s
+
+Flutter run key commands.
+r Hot reload. 
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+This app is linked to the debug service: ws://127.0.0.1:59227/qN6kOHsU_E0=/ws
+Debug service listening on ws://127.0.0.1:59227/qN6kOHsU_E0=/ws
+A Dart VM Service on Chrome is available at: http://127.0.0.1:59227/qN6kOHsU_E0=
+The Flutter DevTools debugger and profiler on Chrome is available at: http://127.0.0.1:59227/qN6kOHsU_E0=/devtools/?uri=ws://127.0.0.1:59227/qN6kOHsU_E0=/ws
+Starting application from main method in: org-dartlang-app:/web_entrypoint.dart.
+00:00 +0: Owner Portal End-to-End Flow 1. Launch App & Login as Owner

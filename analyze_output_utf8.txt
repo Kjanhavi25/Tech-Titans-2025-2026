@@ -1,0 +1,98 @@
+﻿Analyzing smart_trolly...                                       
+
+   info - Don't invoke 'print' in production code - integration_test\owner_portal_test.dart:71:9 - avoid_print
+   info - Parameter 'key' could be a super parameter - lib\features\admin\presentation\screens\admin_add_product_screen.dart:10:9 - use_super_parameters
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\admin\presentation\screens\admin_add_product_screen.dart:169:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\admin\presentation\screens\admin_add_product_screen.dart:180:49 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\admin\presentation\screens\admin_add_product_screen.dart:182:56 - use_build_context_synchronously
+   info - Parameter 'key' could be a super parameter - lib\features\admin\presentation\screens\admin_dashboard_screen.dart:9:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\features\admin\presentation\screens\admin_products_screen.dart:11:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\features\auth\presentation\screens\login_screen.dart:9:9 - use_super_parameters
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\auth\presentation\screens\login_screen.dart:132:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\auth\presentation\screens\login_screen.dart:135:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\auth\presentation\screens\login_screen.dart:138:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\auth\presentation\screens\login_screen.dart:143:62 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\auth\presentation\screens\login_screen.dart:236:40 - use_build_context_synchronously
+   info - Parameter 'key' could be a super parameter - lib\features\auth\presentation\screens\signup_screen.dart:9:9 - use_super_parameters
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\auth\presentation\screens\signup_screen.dart:174:23 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\auth\presentation\screens\signup_screen.dart:217:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\auth\presentation\screens\signup_screen.dart:220:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\auth\presentation\screens\signup_screen.dart:223:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\auth\presentation\screens\signup_screen.dart:227:62 - use_build_context_synchronously
+warning - Unused import: '../../../../models/order_model.dart' - lib\features\cart\presentation\screens\cart_screen.dart:5:8 - unused_import
+warning - Unused import: '../../../../providers/order_provider.dart' - lib\features\cart\presentation\screens\cart_screen.dart:7:8 - unused_import
+   info - Parameter 'key' could be a super parameter - lib\features\cart\presentation\screens\cart_screen.dart:10:9 - use_super_parameters
+warning - Unused import: '../../../../core/utils/app_utils.dart' - lib\features\cart\presentation\screens\home_screen.dart:4:8 - unused_import
+   info - Parameter 'key' could be a super parameter - lib\features\cart\presentation\screens\home_screen.dart:14:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\features\orders\presentation\screens\orders_screen.dart:9:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\features\owner\presentation\screens\owner_add_product_screen.dart:13:9 - use_super_parameters
+   info - Statements in an if should be enclosed in a block - lib\features\owner\presentation\screens\owner_add_product_screen.dart:247:31 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\owner\presentation\screens\owner_add_product_screen.dart:263:31 - curly_braces_in_flow_control_structures
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\owner\presentation\screens\owner_add_product_screen.dart:289:21 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_add_product_screen.dart:361:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_add_product_screen.dart:364:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_add_product_screen.dart:414:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_add_product_screen.dart:481:62 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_add_product_screen.dart:545:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_add_product_screen.dart:640:33 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\features\owner\presentation\screens\owner_analytics_screen.dart:8:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_analytics_screen.dart:195:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_analytics_screen.dart:207:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_analytics_screen.dart:270:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_analytics_screen.dart:405:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_analytics_screen.dart:466:47 - deprecated_member_use
+   info - Unnecessary use of 'toList' in a spread - lib\features\owner\presentation\screens\owner_analytics_screen.dart:514:14 - unnecessary_to_list_in_spreads
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_analytics_screen.dart:590:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_analytics_screen.dart:653:26 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\features\owner\presentation\screens\owner_customers_screen.dart:8:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_customers_screen.dart:88:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_customers_screen.dart:90:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_customers_screen.dart:92:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_customers_screen.dart:213:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_customers_screen.dart:234:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_customers_screen.dart:265:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_customers_screen.dart:332:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_customers_screen.dart:333:37 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:15:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:48:35 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:100:17 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:149:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:165:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:185:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:221:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:223:77 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:396:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:410:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:436:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:454:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:470:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:513:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:523:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:538:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:574:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:579:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:586:30 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:632:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_dashboard_screen.dart:704:26 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\features\owner\presentation\screens\owner_products_screen.dart:12:9 - use_super_parameters
+   info - Don't use 'BuildContext's across async gaps - lib\features\owner\presentation\screens\owner_products_screen.dart:54:17 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_products_screen.dart:95:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_products_screen.dart:97:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_products_screen.dart:99:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_products_screen.dart:128:52 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\features\owner\presentation\screens\owner_products_screen.dart:219:35 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\features\owner\presentation\screens\owner_products_screen.dart:248:41 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\features\owner\presentation\screens\owner_products_screen.dart:274:13 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_products_screen.dart:318:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_products_screen.dart:382:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_products_screen.dart:443:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\owner\presentation\screens\owner_products_screen.dart:444:53 - deprecated_member_use
+warning - Unused import: '../../../../core/constants/app_constants.dart' - lib\features\payment\presentation\screens\payment_screen.dart:4:8 - unused_import
+   info - Parameter 'key' could be a super parameter - lib\features\payment\presentation\screens\payment_screen.dart:13:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\payment\presentation\screens\payment_screen.dart:168:50 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\features\qr_scanner\presentation\screens\qr_scanner_screen.dart:12:9 - use_super_parameters
+   info - Don't use 'BuildContext's across async gaps - lib\features\qr_scanner\presentation\screens\qr_scanner_screen.dart:82:30 - use_build_context_synchronously
+warning - Unnecessary cast - lib\services\firestore_service.dart:46:47 - unnecessary_cast
+warning - Unnecessary cast - lib\services\firestore_service.dart:88:48 - unnecessary_cast
+   info - Parameter 'key' could be a super parameter - lib\widgets\product_card.dart:12:9 - use_super_parameters
+
