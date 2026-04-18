@@ -43,7 +43,7 @@
 **Department**: Computer Engineering  
 **University**: Savitribai Phule Pune University  
 **Academic Year**: 2025–2026  
-**Guide**: Prof. [Guide Name Placeholder]
+**Guide**: Prof. S. P. Bholane
 
 ---
 
